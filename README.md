@@ -1,0 +1,1 @@
+# beaker-smartcontract-basic-example
